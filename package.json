@@ -1,0 +1,9 @@
+{
+	"name": "MoreHideoutAndQuestLoot",
+	"author": "Jiblet with thanks to Chomp",
+	"version": "1.0.0",
+	"license": "NCSA Open Source",
+	"dependencies": {},
+	"akiVersion": "2.2.*",
+	"main": "package.js"
+}

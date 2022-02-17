@@ -1,0 +1,11 @@
+{
+  "Debug":false,
+  "AddQuestItems": true,
+  "AddHideoutItems": true,
+  "AddItemsToUsec": true,
+  "AddItemsToBear": true,
+  "AddItemsToScav": true,
+  "ShowResultDescriptionText": true,
+  "LooseLootMin": 0,
+  "LooseLootMax": 12
+}
